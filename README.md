@@ -2,7 +2,11 @@
 * Core codes for the paper ["Hybrid robust convolutional autoencoder for unsupervised anomaly detection of machine tools under noises"](https://www.sciencedirect.com/science/article/pii/S0736584522001259)
 * Created by Shen Yan, Haidong Shao, Yiming Xiao, Bin Liu, Jiafu Wan.
 * Journal: Robotics and Computer-Integrated Manufacturing
-![HRCAE](https://github.com/yanshen0210/HRCAE/blob/main/framework.jpg)
+
+<div align="center">
+<img src="https://github.com/yanshen0210/HRCAE/blob/main/framework.jpg" width="800" />
+</div>
+
 ## Our operating environment
 * Python 3.8
 * pytorch  1.10.1
